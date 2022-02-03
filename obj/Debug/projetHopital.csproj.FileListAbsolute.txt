@@ -1,0 +1,7 @@
+C:\Users\jerem\Desktop\AJC\c#\solution1\Solution1\projetHopital\bin\Debug\projetHopital.exe.config
+C:\Users\jerem\Desktop\AJC\c#\solution1\Solution1\projetHopital\bin\Debug\projetHopital.exe
+C:\Users\jerem\Desktop\AJC\c#\solution1\Solution1\projetHopital\bin\Debug\projetHopital.pdb
+C:\Users\jerem\Desktop\AJC\c#\solution1\Solution1\projetHopital\obj\Debug\projetHopital.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\AJC\c#\solution1\Solution1\projetHopital\obj\Debug\projetHopital.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\AJC\c#\solution1\Solution1\projetHopital\obj\Debug\projetHopital.exe
+C:\Users\jerem\Desktop\AJC\c#\solution1\Solution1\projetHopital\obj\Debug\projetHopital.pdb
